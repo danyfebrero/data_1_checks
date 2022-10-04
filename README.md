@@ -13,5 +13,7 @@ Make a .py (or .ipynb) file that contains the following and do the following:
   * Write a query in Pandas to select a particular set of your data. Use a mask or with .query(), to pull out a subset based on any parameter.
   * Select and print the SECOND AND THIRD columns of the data frame.
   * Select and print the FIRST 4 rows of the data frame.
+
+
 Commit changes.
 Push changes to the repo and notify the mentor!
