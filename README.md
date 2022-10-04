@@ -15,5 +15,5 @@ Make a .py (or .ipynb) file that contains the following and do the following:
   * Select and print the FIRST 4 rows of the data frame.
 
 
-Commit changes. /n
+Commit changes.
 Push changes to the repo and notify the mentor!
